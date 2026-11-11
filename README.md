@@ -47,6 +47,12 @@
 
 <sub>Most client projects are private, but I'm happy to tell you more about them.</sub>
 
+### Let's connect
+
+<p>
+  <a href="https://www.linkedin.com/in/emilkryger"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
 ---
 
 <p align="center"><i>Thanks for stopping by!</i></p>
